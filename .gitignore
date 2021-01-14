@@ -1,7 +1,0 @@
-node_modules
-__pycache__
-BIT.json
-index.js
-package-lock.json
-package.json
-.gitignore
